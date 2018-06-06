@@ -1,2 +1,3 @@
 # hello-world
-classic starting project
+introduction to github functionality. Have used many
+different code repositories ... learning github now ...
